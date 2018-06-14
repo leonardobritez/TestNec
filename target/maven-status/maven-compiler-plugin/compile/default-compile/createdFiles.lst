@@ -1,0 +1,10 @@
+com\example\demo\NecApplication.class
+controller\Controller.class
+model\MainMatrizs.class
+model\Matrix.class
+model\Matriz.class
+MainMatrizs.class
+service\MatrizServicio.class
+service\Servicio.class
+service\Servicio$1.class
+service\MatrizRepository.class
